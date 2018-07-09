@@ -1,6 +1,6 @@
 MC_I2M_Tool - Mesh Compression (MC) Image-to-Mesh Conversion Tool
 
-Contributors: Fotis Drakopoulos, Yixun Liu, Andrey Fedorov, Nikos Chrisochoides
+Contributors:  Joi Best (CRTC), Fotis Drakopoulos, Yixun Liu, Andrey Fedorov, Nikos Chrisochoides
 Center for Real-Time Computing (https://crtc.cs.odu.edu) &
 Surgical Planning Lab, Brigham and Women's Hospital (http://www.spl.harvard.edu/)
 Old Dominion Univeristy and The College of William and Mary, Virginia, US.
