@@ -149,7 +149,7 @@ Where:
    multi-tissue mesh generation for brain images, Engineering with
    Computers (2012), Volume 28, Issue 4, pp 305-318.
 
-   Author(s): Fotis Drakopoulos (CRTC), Yixun Liu (CRTC), Andrey Fedorov
+   Author(s):  Joi Best (CRTC), Fotis Drakopoulos (CRTC), Yixun Liu (CRTC), Andrey Fedorov
    (CRTC), Nikos Chrisochoides (CRTC)
 
    Acknowledgements: This work was partially supported by NIH R44
