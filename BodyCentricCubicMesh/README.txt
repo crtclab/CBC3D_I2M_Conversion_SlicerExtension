@@ -1,6 +1,6 @@
 BCC_I2M_Tool - Body-Centered Cubic (BCC) lattice-based Image-to-Mesh Conversion Tool
 
-Contributors: Fotis Drakopoulos, Yixun Liu, Andrey Fedorov, Nikos Chrisochoides
+Contributors:  Joi Best, Fotis Drakopoulos, Yixun Liu, Andrey Fedorov, Nikos Chrisochoides
 Center for Real-Time Computing (https://crtc.cs.odu.edu) &
 Surgical Planning Lab, Brigham and Women's Hospital (http://www.spl.harvard.edu/)
 Old Dominion Univeristy and The College of William and Mary, Virginia, US.
