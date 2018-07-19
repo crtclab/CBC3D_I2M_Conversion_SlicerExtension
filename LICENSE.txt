@@ -1,4 +1,4 @@
-BCC_I2M_Tool - Body-Centered Cubic (BCC) lattice-based Image-to-Mesh Conversion Tool
+ CBC3D_I2M_Tool - CRTC's BCC & Compression Image-to-Mesh Conversion Tool
 
  Contributors:  Joi Best (CRTC), Fotis Drakopoulos, Yixun Liu, Andrey Fedorov, Nikos Chrisochoides
  Center for Real-Time Computing (https://crtc.cs.odu.edu) 
