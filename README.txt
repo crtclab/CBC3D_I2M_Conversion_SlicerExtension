@@ -9,7 +9,7 @@ Old Dominion Univeristy and The College of William and Mary, Virginia, US.
 Contact:  npchris@gmail.com, jbest002@odu.edu
 
 Acknowledgements: This work was partially supported by NIH R44 OD018334-03A,
-NSF grant No. CCF-1139864 and by the Richard T.Cheng Endowment.
+NSF grant No. CCF-1439079 and by the Richard T.Cheng Endowment.
 
 Wiki Documentation: http://www.slicer.org/slicerWiki/index.php/Documentation/Nightly/Extensions/CBC_3D_I2MConversion
 
