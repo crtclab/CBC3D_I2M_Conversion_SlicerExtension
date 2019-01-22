@@ -357,7 +357,7 @@ BinaryMaskTo3DAdaptiveMeshFilter<TInputImage,TOutputMesh>
 	for(typename std::list<RGMTetra_ptr>::iterator tI=m_Tetras.begin(); tI!=m_Tetras.end(); tI++)
 	{
 		RGMVertex_ptr thisT_nodes[4];
-		unsigned long thisT_point_ids[4];
+		unsigned __int64 thisT_point_ids[4];
 
 		/* orient3d() returns a negative value if the first three points appear in
 		 * counterclockwise order when viewed from the 4th point */
