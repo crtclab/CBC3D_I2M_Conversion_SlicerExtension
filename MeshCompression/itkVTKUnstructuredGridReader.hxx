@@ -258,7 +258,7 @@ VTKUnstructuredGridReader<TOutputMesh>
         			<< got << std::endl
         			<< "Line is: " << line);
         }
-
+/*
         if( numberOfCellPoints != 4 && numberOfCellPoints != 1)
         {
             itkExceptionMacro(<< "Error reading file: " << m_FileName
@@ -266,7 +266,7 @@ VTKUnstructuredGridReader<TOutputMesh>
                 << "numberOfCellPoints= " << numberOfCellPoints
                 << ". VTKUnstructuredGridReader can only read VTK_TETRA or VTK_VERTEX");
         }
-
+*/
         CellAutoPointer cell;
 
         // VTK_VERTEX
