@@ -509,8 +509,8 @@ void FEMCompressor<TInputMesh, TInputImage, TOutputMesh>
 			for(unsigned int j=0; j<3; j++)
 			{
 				// Get the linked tets of the vertex
-				std::set<unsigned long> vertex2Tets = pMesh->GetCellLinks()->ElementAt(vTriId[j]);
-				std::set<unsigned long>::iterator it;
+				std::set<unsigned __int64> vertex2Tets = pMesh->GetCellLinks()->ElementAt(vTriId[j]);
+				std::set<unsigned __int64>::iterator it;
 				if(vertex2Tets.size() < 2) // might be one??
 					itkExceptionMacro("Invalid number of linked tets!");
 
